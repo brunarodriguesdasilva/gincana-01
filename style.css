@@ -1,0 +1,174 @@
+.item {
+    height: 25px;
+    width: 25px;
+}
+
+.bnt-login {
+    width: 110px;
+    height: 39px;
+    border-radius: 50px;
+    background-color: #eb5757;
+    color: #ffff;
+    border: none;
+}
+
+#why {
+    color: #eb5757;
+}
+
+.nav-a {
+    position: relative;
+    margin-left: 200px;
+
+}
+
+
+.caixa-fundo {
+    background-image: url("./assents/banner.png");
+    height: 590px;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.title {
+
+    margin-top: 130px;
+}
+
+.roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style:normal;
+    
+
+}
+
+#subtitulo{
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style:normal;
+    text-align: center;
+}
+
+.teste {
+    width: 180px;
+    height: 39px;
+    margin-bottom: 30px;
+    border-radius: 50px;
+    border: none;
+    background-color: #FEE9DE;
+
+}
+
+#more {
+    color: #eb5757;
+}
+
+#color-food {
+    color: #eb5757;
+}
+
+.pessoas {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+   
+
+}
+
+.our {
+    display: inline-block;
+}
+
+.estrela {
+    height: 15px;
+    width: 15px;
+}
+
+.ava {
+    display: inline-block;
+}
+
+.view {
+    color: #918f8e;
+}
+
+.what {
+    color: #eb5757;
+    font-weight: bold;
+}
+
+.title2 {
+    height: 120px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+.bolinha-texto{
+
+     display: flex;
+     flex-direction: column;
+
+}
+.estrutura-bola{
+    display: flex;
+    flex-direction: row;
+}
+
+#texto2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style:normal;
+    
+}
+.estrutura-boneco{
+    display: flex;
+ justify-content: space-around;
+   
+}
+
+.estrutura-texto  {
+    display: flex;
+    justify-content: space-around;
+}
+
+.card-estrutura{
+    display: flex;
+    align-items: center;
+  height: 350px;
+  width: 300px;
+ 
+  justify-content: space-evenly;
+flex-direction: column;
+
+}
+.p-testo{
+    width: 200px;
+
+
+}
+
+.descrica-car{
+    text-align: center;
+}
+
+
+.cozin {
+height: 470px;
+width: 470px;
+}
+
+.cozinheiro-texto {
+    margin-top: 100px;
+
+}
+.txt {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style:normal;
+}
